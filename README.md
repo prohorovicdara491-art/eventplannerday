@@ -20,7 +20,7 @@ EventPlanner — это веб-приложение для создания и �
 - Версионирование: Git, GitHub
 
 ## 🔗 Ссылка на отчёт
-https://github.com/prohorovicdara491-art/eventplannerday/commit/e9145638fa70595cf4d355b01f712ab43fac7b86#diff-cfbcbc75f95f37e3817e3cac2711f6debe4effd3a77d4d62687a2d7ae5437683
+https://github.com/prohorovicdara491-art/eventplannerday/raw/refs/heads/main/docs/%D0%BE%D1%82%D1%87%D0%B5%D1%82.docx
 
 ## 👨‍🎓 Автор
 Студент группы [Прохорович ИС21]
